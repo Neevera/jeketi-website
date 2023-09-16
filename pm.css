@@ -1,0 +1,61 @@
+ .paket1 {
+    text-align: left;
+    color: #6759eb;
+    margin: 50px;50px 
+    border: 1px solid #ccc;
+    border-radius: 17px;
+    background-color: #f7f7f7;
+    font-variant: small-caps;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.paket1 h3 {
+  text-align: center;
+  font-style: italic;
+  padding-top: 15px;
+  font-size: 20px
+  font-family: Tahoma;
+}
+
+.paket1 li {
+  list-style-type: none;
+  padding-bottom: 3px;
+}
+
+.paket2 li {
+  padding-bottom: 10px;
+  list-style-type: none;
+}
+
+.untukfont {
+  font-family: Georgia;
+  font-style: italic;
+  font-size: 14px;
+  text-align: center;
+  font-weight: bold;
+  color: #28b221;
+  font-variant: normal;
+  
+}
+
+.btn1 {
+  display: inline-block;
+    margin: 20px;
+    background-color: #28b221;
+    color: #fff;
+    width: 120px;
+    padding: 7px 0px;
+    font-weight: bold;
+    font-size: 10px;
+    text-decoration: none;
+    border-radius: 17px;
+    transition: background-color 0.1s ease;
+    font-family: none;
+    font-style: normal;
+}
+
+.btn1:hover {
+    background-color: #1a7315;
+}
+
